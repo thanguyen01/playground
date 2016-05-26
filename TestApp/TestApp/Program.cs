@@ -10,11 +10,9 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            Math equations = new Math();
+            Mathmatics equations = new Mathmatics();
 
-
-            int answer;
-            answer = equations.Double(20);
+            int answer = equations.Double(20);
             Console.WriteLine(answer);
 
 
