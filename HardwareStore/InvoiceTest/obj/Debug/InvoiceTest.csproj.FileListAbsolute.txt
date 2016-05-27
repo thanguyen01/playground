@@ -1,0 +1,8 @@
+C:\Users\Thanh\Documents\Visual Studio 2015\Projects\HardwareStore\InvoiceTest\bin\Debug\InvoiceTest.dll
+C:\Users\Thanh\Documents\Visual Studio 2015\Projects\HardwareStore\InvoiceTest\bin\Debug\InvoiceTest.pdb
+C:\Users\Thanh\Documents\Visual Studio 2015\Projects\HardwareStore\InvoiceTest\bin\Debug\HardwareStore.exe
+C:\Users\Thanh\Documents\Visual Studio 2015\Projects\HardwareStore\InvoiceTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Thanh\Documents\Visual Studio 2015\Projects\HardwareStore\InvoiceTest\bin\Debug\HardwareStore.pdb
+C:\Users\Thanh\Documents\Visual Studio 2015\Projects\HardwareStore\InvoiceTest\obj\Debug\InvoiceTest.csprojResolveAssemblyReference.cache
+C:\Users\Thanh\Documents\Visual Studio 2015\Projects\HardwareStore\InvoiceTest\obj\Debug\InvoiceTest.dll
+C:\Users\Thanh\Documents\Visual Studio 2015\Projects\HardwareStore\InvoiceTest\obj\Debug\InvoiceTest.pdb

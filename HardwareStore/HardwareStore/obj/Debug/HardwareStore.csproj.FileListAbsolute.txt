@@ -1,0 +1,6 @@
+C:\Users\Thanh\Documents\Visual Studio 2015\Projects\HardwareStore\HardwareStore\bin\Debug\HardwareStore.exe.config
+C:\Users\Thanh\Documents\Visual Studio 2015\Projects\HardwareStore\HardwareStore\bin\Debug\HardwareStore.exe
+C:\Users\Thanh\Documents\Visual Studio 2015\Projects\HardwareStore\HardwareStore\bin\Debug\HardwareStore.pdb
+C:\Users\Thanh\Documents\Visual Studio 2015\Projects\HardwareStore\HardwareStore\obj\Debug\HardwareStore.csprojResolveAssemblyReference.cache
+C:\Users\Thanh\Documents\Visual Studio 2015\Projects\HardwareStore\HardwareStore\obj\Debug\HardwareStore.exe
+C:\Users\Thanh\Documents\Visual Studio 2015\Projects\HardwareStore\HardwareStore\obj\Debug\HardwareStore.pdb
